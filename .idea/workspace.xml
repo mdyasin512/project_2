@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8b5f9bf-b9a6-402a-a34c-c52ae7448f0b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UBdNANGZlQXDh3ADZ0AL4A6K6S" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8b5f9bf-b9a6-402a-a34c-c52ae7448f0b" name="Default Changelist" comment="" />
+      <created>1552194029942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552194029942</updated>
+      <workItem from="1552194046428" duration="4411000" />
+      <workItem from="1552222593171" duration="1093000" />
+      <workItem from="1552539149361" duration="1175000" />
+      <workItem from="1552540336225" duration="2848000" />
+      <workItem from="1552582228364" duration="20167000" />
+      <workItem from="1552977839467" duration="569000" />
+      <workItem from="1553324700627" duration="591000" />
+      <workItem from="1556526013458" duration="699000" />
+      <workItem from="1556567998743" duration="2286000" />
+      <workItem from="1556698370438" duration="5070000" />
+      <workItem from="1556730866466" duration="2521000" />
+      <workItem from="1556767110977" duration="4473000" />
+      <workItem from="1556881288888" duration="7054000" />
+      <workItem from="1557023473845" duration="5891000" />
+      <workItem from="1557080307291" duration="8408000" />
+      <workItem from="1557140534027" duration="9550000" />
+      <workItem from="1557167643415" duration="2708000" />
+      <workItem from="1557241486292" duration="1420000" />
+      <workItem from="1557683692576" duration="2172000" />
+      <workItem from="1574834006794" duration="1775000" />
+      <workItem from="1574908744502" duration="1204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
